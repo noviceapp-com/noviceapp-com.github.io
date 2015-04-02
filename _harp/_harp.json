@@ -1,9 +1,9 @@
 {
   "globals": {
-    "site_title": "Baseline",
-    "description": "Baseline is a blog boilerplate for the Harp platform.",
-    "site_url": "http://baseline.harpapp.io",
-    "site_twitter": "trybaseline",
+    "site_title": "noviceapp.com at github",
+    "description": "",
+    "site_url": "http://noviceapp-com.github.io/",
+    "site_twitter": "noviceapp_com",
     "logo": "/images/logo.png",
     "disqus_account": "baseline",
     "analytics_account": "UA-342665-41"
